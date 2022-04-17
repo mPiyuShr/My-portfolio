@@ -52,7 +52,7 @@ span{
 }
 
 .heavy-hr{
-    background-color: white;
+    background-color:white;
     width: 5%;
     height:0px;
     border-style: dotted none none;
@@ -97,7 +97,7 @@ span{
 }
 .contact-me{
     
-    font-size: 2 rem;
+    font-size: 2rem;
     color: #3ca40f
 }
 .heavy-hr1{
@@ -110,6 +110,6 @@ span{
     margin: 2px;
 }
 .get{
-    text-align: center;
+    text-align: none;
     text-decoration: underline;
 }
