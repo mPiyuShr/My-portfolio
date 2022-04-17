@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #c8dab9;
+    
+}
+span{
+   margin: 0 auto 0 auto;
+    width: 10%;
+    font-family: 'Updock', cursive;
+    font-size: 2.625rem;
+    
+}
+.top-container{
+   margin-top: 60px;
+   color: #3ca40f;
+    
+}
+.middle-conainer{
+    width: 200px;
+}
+
+.bottom-container{
+    
+    background-color: #b8e7a4;
+    color: #050d02;
+    margin: 0%;
+    padding: 0%;
+    height: 200px;
+}
+.bottom-cloud{
+    position: absolute;
+    right: 300px;
+    top: 120px;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 300px;
+    top: 60px;
+
+}
+span{
+    text-decoration: underline;
+}
+
+.image-me{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.heavy-hr{
+    background-color: white;
+    width: 5%;
+    height:0px;
+    border-style: dotted none none;
+    border-width:2px;
+    background-color:#E5EFC1;
+    
+}
+.hrh{
+    border-width:5px;
+    border-style: dotted none none;
+    width: 8%;
+}
+.skill-image-right{
+    width: 162px;
+    height: 162px;
+    float: right;
+    margin-right: 30px;
+}
+.skill-image-left{
+    width: 162px;
+    height: 162px;
+    float: left;
+    margin: 30px;
+}
+.skill-row{
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skl{
+    color: #3ca40f;
+    text-align: center;
+}
+.My-Skills{
+    color: #2e9801;
+}
+.profile{
+    font-family: 'Updock', cursive;
+    font-size: 2rem;
+    color: #3ca40f
+}
+.contact-me{
+    
+    font-size: 2 rem;
+    color: #3ca40f
+}
+.heavy-hr1{
+    color: #c8dab9;
+    width: 100%;
+}
+.btn{
+    background-color: #3ca40f;
+    color: #071403;
+    margin: 2px;
+}
+.get{
+    text-align: center;
+    text-decoration: underline;
+}
